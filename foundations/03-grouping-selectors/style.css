@@ -1,0 +1,16 @@
+
+
+.num1 {
+    background-color: rgb(24, 23, 23);
+    color: white;
+    font-weight: bold;
+}
+
+.num2 {
+    background-color: rgb(250, 224, 73);
+}
+
+.num1, .num2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
